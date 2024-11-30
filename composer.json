@@ -1,0 +1,14 @@
+{
+    "name": "sahrane/composer_quest",
+   "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sahrane"
+        }
+    ],
+    "require": {}
+}
